@@ -26,9 +26,9 @@
 /portfolio-website  
 │── index.html       # Main landing page  
 │── style.css        # Styling file  
-│── images/          # Folder containing images (profile, projects, etc.)  
-│── scripts.js       # JavaScript for interactive features  
-│── README.md        # Project documentation  
+│── images/          # Folder containing images (profile, projects, etc.)
+│── scripts.js       # JavaScript for interactive features
+│── README.md        # Project documentation
 </pre>
 
 <h2>🚀 How to Use</h2>
