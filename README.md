@@ -26,8 +26,6 @@
 └── Chitransh-Resume.pdf
 </pre>
 
-<h2>🌐 Live Demo</h2>
-<p><em>Coming soon...</em></p>
 
 <h2>🧠 Featured Projects</h2>
 <ul>
