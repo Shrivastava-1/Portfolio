@@ -37,7 +37,6 @@
 <h2>📬 Contact</h2>
 <ul>
   <li>Email: chitranshshrivastava102@gmail.com</li>
-  <li>Phone: 7879294846</li>
   <li>
     Social:
     <ul>
