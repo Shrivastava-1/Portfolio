@@ -2,7 +2,7 @@
 
 <h2>🚀 Features</h2>
 <ul>
-  <li>Responsive design (desktop/tablet/mobile)</li>
+  <li>Responsive design (desktop/mobile)</li>
   <li>Interactive About section with tabs</li>
   <li>Service section highlighting core competencies</li>
   <li>Portfolio with real project links and previews</li>
