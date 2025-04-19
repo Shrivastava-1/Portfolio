@@ -48,7 +48,4 @@
   </li>
 </ul>
 
-<h2>📄 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
-
 <p><strong>Made with ❤️ by Chitransh Shrivastava</strong></p>
