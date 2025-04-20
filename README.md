@@ -6,7 +6,6 @@
   <li>Interactive About section with tabs</li>
   <li>Service section highlighting core competencies</li>
   <li>Portfolio with real project links and previews</li>
-  <li>Google-integrated contact form</li>
   <li>Social media integration + Resume download</li>
 </ul>
 
