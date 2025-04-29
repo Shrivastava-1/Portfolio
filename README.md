@@ -47,4 +47,4 @@
   </li>
 </ul>
 
-<p><strong>Made with ❤️ by Chitransh Shrivastava</strong></p>
+<p><strong>Made with 🩷 by Chitransh Shrivastava</strong></p>
