@@ -9,7 +9,7 @@
   <li>Social media integration + Resume download</li>
 </ul>
 
-<h2>🛠️ Technologies are Used</h2>
+<h2>🛠️ Technologies Used</h2>
 <ul>
   <li>HTML5, CSS3</li>
   <li>Font Awesome (icon library)</li>
