@@ -29,7 +29,6 @@
 <h2>🧠 Featured Projects</h2>
 <ul>
   <li><a href="https://github.com/Chitransh-1/Face-Detection">Face Recognition System</a> - Real-time face recognition using Python & OpenCV</li>
-  <li><a href="https://github.com/Chitransh-1/Whatsapp_Web">WhatsApp Web Bulk Messaging Tool</a> - Tkinter + SQL</li>
   <li><a href="https://github.com/Chitransh-1/Login-or-Registration-Page">Login & Registration System</a> - PHP + HTML/CSS</li>
 </ul>
 
