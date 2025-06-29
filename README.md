@@ -26,11 +26,6 @@
 </pre>
 
 
-<h2>🧠 Featured Projects</h2>
-<ul>
-  <li><a href="https://github.com/Chitransh-1/Face-Detection">Face Recognition System</a> - Real-time face recognition using Python & OpenCV</li>
-</ul>
-
 <h2>📬 Contact</h2>
 <ul>
   <li>Email: chitranshshrivastava102@gmail.com</li>
