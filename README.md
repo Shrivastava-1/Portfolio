@@ -11,7 +11,7 @@
 
 <h2>🛠️ Technologies are Used</h2>
 <ul>
-  <li>HTML5, CSS3</li>
+  <li>HTML5, CSS</li>
   <li>Font Awesome (icon library)</li>
   <li>Google Apps Script (for contact form handling)</li>
 </ul>
